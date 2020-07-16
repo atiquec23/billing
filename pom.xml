@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>co.com.ud.inv.billing</groupId>
 	<artifactId>billing-control</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>billing-control</name>
 	<description>Test Project For Docker Integration</description>
 
